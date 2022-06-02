@@ -1,5 +1,5 @@
 # Vladislav Zinovik
-
+![photo](assets/photo.jpg)    
 ## Beginner frontend developer
 
 ## Contact information:
