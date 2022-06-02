@@ -4,13 +4,14 @@
 
 ## Contact information:
    - **Phone:** +375 29 127-44-37
-   - **E-mail:** [visper.vl@gmail.com](visper.vl@gmail.com)
+   - **E-mail:** visper.vl@gmail.com
    - **GitHub:** [vladislavzinovik](https://github.com/vladislavzinovik)
    - **Telegram:** [@vladislavzinovik](https://t.me/vladislavzinovik)
-   - **Discord:** [Vladislavzinovik#6894](https://discord.gg/FeU3qJq8wH)
+   - **Discord:** [vladislavzinovik#6894](https://discord.gg/FeU3qJq8wH)
 
 ## About Myself:
-_something about me_
+_Beginner frontend developer. The Rolling Scopes School Student._ \
+_Belarus. Minsk. 26 years._
 
 ## Skills:
 - HTML
@@ -21,8 +22,13 @@ _something about me_
 - Adobe Photoshop
 
 ## Code example:
-```
-
+```javascript
+const func = (num) => {
+  if (num > 0) {
+    return num - 1;
+  }
+  return num + 1;
+};
 ```
 
 ## Education
